@@ -8,10 +8,10 @@ These resources allow to reproduce the results presented in the Target Type Iden
 
 The repository is structured as follows:
 
-- `data/qrels/`: CSV ground truth file from post-processed crowdsourcing annotations; 
-- `data/ml/`: CSV machine learning dataset with all the extracted features; 
+- `data/qrels/`: CSV file with the test collection built from a crowdsourcing annotations; 
+- `data/ml/`: CSV machine learning dataset with all the pre-computed features; 
 - `lib/trec_eval/`: TREC evaluation file (see its Readme);
-- `output/`:  all the resulting CSV run files, containing target types ranked by baseline methods and our proposed approach.
+- `output/`:  all the final CSV run files, containing target types ranked by baseline methods and our proposed approach.
 
 
 ## Machine learning data
@@ -30,7 +30,7 @@ E.g., placed on `sigir2017-query_types` directory, the following
 ```
 $ ./lib/trec_eval.9.0/trec_eval -c -m ndcg_cut.1,5 data/qrels/qrels-tti-CF-filtered_by_NIL+merged.csv output/ltr/scores-tti-ltr-rf-n_1000-m_3.csv
 ```
-obtains the evaluation results for our proposed Learning-to-rank method for the NDCG@1 and NDCG@5 metrics.
+evaluates our proposed Learning-to-rank method with the NDCG@1 and NDCG@5 metrics.
 
 
 ## Contact
