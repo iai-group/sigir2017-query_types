@@ -8,10 +8,20 @@ These resources allow to reproduce the results presented in the Target Type Iden
 
 The repository is structured as follows:
 
-- `data/qrels/`: CSV file with the test collection built from a crowdsourcing annotations; 
+- `data/test_collection/`: CSV dataset with our test collection, built from crowdsourcing annotations; 
+- `data/qrels/`: CSV file used for evaluating the rankings. It was obtained by post-processing the test collection (details in the paper); 
 - `data/ml/`: CSV machine learning dataset with all the pre-computed features; 
 - `lib/trec_eval/`: TREC evaluation file (see its Readme);
 - `output/`:  all the final CSV run files, containing target types ranked by baseline methods and our proposed approach.
+
+
+## Test collection
+
+This CSV dataset contains the test collection built through a crowdsourcing annotation experiment (details in the paper).
+
+A special `<dbo:NONETYPE>` label represents a NIL-type annotation.
+
+The columns of this CSV file are self-descriptive.
 
 
 ## Precomputed features for learning to rank target types
