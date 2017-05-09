@@ -1,0 +1,904 @@
+query_id	query	type	relevance
+INEX_LD-2009022	Szechwan dish food cuisine	<dbo:Food>	7
+INEX_LD-2009039	roman architecture	<dbo:HistoricBuilding>	3
+INEX_LD-2009039	roman architecture	<dbo:ArchitecturalStructure>	3
+INEX_LD-2009039	roman architecture	<dbo:HistoricPlace>	1
+INEX_LD-2009053	finland car industry manufacturer saab sisu	<dbo:Company>	4
+INEX_LD-2009053	finland car industry manufacturer saab sisu	<dbo:Automobile>	3
+INEX_LD-2009061	france second world war normandy	<dbo:MilitaryConflict>	7
+INEX_LD-2009062	social network group selection	<NONETYPE>	4
+INEX_LD-2009062	social network group selection	<dbo:Website>	3
+INEX_LD-2009063	D-Day normandy invasion	<dbo:MilitaryConflict>	3
+INEX_LD-2009063	D-Day normandy invasion	<NONETYPE>	2
+INEX_LD-2009063	D-Day normandy invasion	<dbo:TimePeriod>	1
+INEX_LD-2009063	D-Day normandy invasion	<dbo:MilitaryUnit>	1
+INEX_LD-2009074	web ranking scoring algorithm	<dbo:ProgrammingLanguage>	3
+INEX_LD-2009074	web ranking scoring algorithm	<NONETYPE>	3
+INEX_LD-2009074	web ranking scoring algorithm	<dbo:Language>	1
+INEX_LD-2009096	Eiffel	<dbo:ArchitecturalStructure>	5
+INEX_LD-2009096	Eiffel	<dbo:Engineer>	2
+INEX_LD-2009111	europe solar power facility	<dbo:PowerStation>	6
+INEX_LD-2009111	europe solar power facility	<NONETYPE>	1
+INEX_LD-2009115	virtual museums	<dbo:Museum>	5
+INEX_LD-2009115	virtual museums	<NONETYPE>	2
+INEX_LD-2010004	Indian food	<dbo:Food>	7
+INEX_LD-2010014	composer museum	<dbo:Museum>	5
+INEX_LD-2010014	composer museum	<dbo:MusicalArtist>	1
+INEX_LD-2010014	composer museum	<dbo:Artwork>	1
+INEX_LD-2010019	gallo roman architecture in paris	<dbo:ArchitecturalStructure>	5
+INEX_LD-2010019	gallo roman architecture in paris	<dbo:Museum>	2
+INEX_LD-2010020	electricity source in France	<dbo:PowerStation>	5
+INEX_LD-2010020	electricity source in France	<dbo:PopulatedPlace>	1
+INEX_LD-2010020	electricity source in France	<NONETYPE>	1
+INEX_LD-2010037	social network API	<dbo:Website>	3
+INEX_LD-2010037	social network API	<dbo:Software>	3
+INEX_LD-2010037	social network API	<dbo:InformationAppliance>	1
+INEX_LD-2010043	List of films from the surrealist category	<dbo:Film>	7
+INEX_LD-2010057	Einstein Relativity theory	<dbo:WrittenWork>	6
+INEX_LD-2010057	Einstein Relativity theory	<NONETYPE>	1
+INEX_LD-2010069	summer flowers	<dbo:FloweringPlant>	7
+INEX_LD-2010100	house concrete wood	<dbo:Building>	3
+INEX_LD-2010100	house concrete wood	<dbo:ArchitecturalStructure>	2
+INEX_LD-2010100	house concrete wood	<dbo:Artwork>	1
+INEX_LD-2010100	house concrete wood	<NONETYPE>	1
+INEX_LD-2010106	organic food advantages disadvantages	<dbo:Food>	7
+INEX_LD-20120111	vietnam war movie	<dbo:Film>	7
+INEX_LD-20120112	vietnam war facts	<dbo:MilitaryConflict>	6
+INEX_LD-20120112	vietnam war facts	<dbo:Film>	1
+INEX_LD-20120121	vietnam food recipes	<dbo:Food>	7
+INEX_LD-20120122	vietnamese food blog	<dbo:Website>	4
+INEX_LD-20120122	vietnamese food blog	<dbo:WrittenWork>	3
+INEX_LD-20120131	vietnam travel national park	<dbo:Park>	4
+INEX_LD-20120131	vietnam travel national park	<dbo:ProtectedArea>	1
+INEX_LD-20120131	vietnam travel national park	<dbo:NaturalPlace>	1
+INEX_LD-20120131	vietnam travel national park	<dbo:AmusementParkAttraction>	1
+INEX_LD-20120132	vietnam travel airports	<dbo:Airport>	6
+INEX_LD-20120132	vietnam travel airports	<dbo:Airline>	1
+INEX_LD-20120211	guitar chord tuning	<NONETYPE>	5
+INEX_LD-20120211	guitar chord tuning	<dbo:MusicalWork>	1
+INEX_LD-20120211	guitar chord tuning	<dbo:ClassicalMusicComposition>	1
+INEX_LD-20120212	guitar chord minor	<dbo:ClassicalMusicComposition>	3
+INEX_LD-20120212	guitar chord minor	<dbo:MusicalWork>	2
+INEX_LD-20120212	guitar chord minor	<dbo:Guitarist>	1
+INEX_LD-20120212	guitar chord minor	<NONETYPE>	1
+INEX_LD-20120221	guitar classical flamenco	<dbo:MusicGenre>	5
+INEX_LD-20120221	guitar classical flamenco	<dbo:MusicalWork>	1
+INEX_LD-20120221	guitar classical flamenco	<dbo:Guitarist>	1
+INEX_LD-20120222	guitar classical bach	<dbo:MusicalWork>	2
+INEX_LD-20120222	guitar classical bach	<dbo:MusicGenre>	2
+INEX_LD-20120222	guitar classical bach	<NONETYPE>	2
+INEX_LD-20120222	guitar classical bach	<dbo:ArtistDiscography>	1
+INEX_LD-20120231	guitar origin Russia	<NONETYPE>	7
+INEX_LD-20120232	guitar origin blues	<dbo:MusicGenre>	3
+INEX_LD-20120232	guitar origin blues	<NONETYPE>	3
+INEX_LD-20120232	guitar origin blues	<dbo:Guitarist>	1
+INEX_LD-20120311	tango culture movies	<dbo:Film>	7
+INEX_LD-20120312	tango culture countries	<dbo:PopulatedPlace>	5
+INEX_LD-20120312	tango culture countries	<NONETYPE>	2
+INEX_LD-20120321	tango music  composers	<dbo:MusicalArtist>	7
+INEX_LD-20120322	tango music instruments	<dbo:ClassicalMusicComposition>	4
+INEX_LD-20120322	tango music instruments	<NONETYPE>	3
+INEX_LD-20120331	tango dance styles	<dbo:MusicGenre>	3
+INEX_LD-20120331	tango dance styles	<NONETYPE>	3
+INEX_LD-20120331	tango dance styles	<dbo:Genre>	1
+INEX_LD-20120332	tango dance history	<dbo:MusicGenre>	3
+INEX_LD-20120332	tango dance history	<NONETYPE>	3
+INEX_LD-20120332	tango dance history	<dbo:Genre>	1
+INEX_LD-20120411	bicycle sport races	<dbo:CyclingRace>	7
+INEX_LD-20120412	bicycle sport disciplines	<dbo:CyclingRace>	5
+INEX_LD-20120412	bicycle sport disciplines	<dbo:Sport>	1
+INEX_LD-20120412	bicycle sport disciplines	<NONETYPE>	1
+INEX_LD-20120421	bicycle holiday towns	<dbo:Town>	4
+INEX_LD-20120421	bicycle holiday towns	<dbo:City>	3
+INEX_LD-20120422	bicycle holiday nature	<dbo:NaturalPlace>	7
+INEX_LD-20120431	bicycle benefits health	<NONETYPE>	5
+INEX_LD-20120431	bicycle benefits health	<dbo:Cyclist>	2
+INEX_LD-20120432	bicycle benefits environment	<NONETYPE>	4
+INEX_LD-20120432	bicycle benefits environment	<dbo:CyclingRace>	3
+INEX_LD-20120511	female rock singers	<dbo:MusicalArtist>	7
+INEX_LD-20120512	south korean girl groups	<dbo:Group>	3
+INEX_LD-20120512	south korean girl groups	<dbo:Band>	3
+INEX_LD-20120512	south korean girl groups	<dbo:MusicalArtist>	1
+INEX_LD-20120521	electronic music genres	<dbo:MusicGenre>	6
+INEX_LD-20120521	electronic music genres	<NONETYPE>	1
+INEX_LD-20120522	digital music notation formats	<NONETYPE>	4
+INEX_LD-20120522	digital music notation formats	<dbo:Software>	2
+INEX_LD-20120522	digital music notation formats	<dbo:ProgrammingLanguage>	1
+INEX_LD-20120531	music conferences	<dbo:Convention>	7
+INEX_LD-20120532	intellectual property rights lobby	<dbo:Organisation>	3
+INEX_LD-20120532	intellectual property rights lobby	<dbo:Non-ProfitOrganisation>	2
+INEX_LD-20120532	intellectual property rights lobby	<NONETYPE>	2
+INEX_LD-2012301	Niagara falls origin lake	<dbo:Lake>	5
+INEX_LD-2012301	Niagara falls origin lake	<dbo:River>	1
+INEX_LD-2012301	Niagara falls origin lake	<dbo:NaturalPlace>	1
+INEX_LD-2012303	 Valley fever fungal infection San Joaquin	<dbo:Fungus>	4
+INEX_LD-2012303	 Valley fever fungal infection San Joaquin	<dbo:Disease>	3
+INEX_LD-2012305	North Dakota's lowest river of another colour	<dbo:River>	7
+INEX_LD-2012307	 July, 1850  president died Millard Fillmore sworn following day	<dbo:President>	6
+INEX_LD-2012307	 July, 1850  president died Millard Fillmore sworn following day	<dbo:Politician>	1
+INEX_LD-2012309	residents small island city-state  Malay Peninsula Chinese	<dbo:City>	4
+INEX_LD-2012309	residents small island city-state  Malay Peninsula Chinese	<dbo:Person>	1
+INEX_LD-2012309	residents small island city-state  Malay Peninsula Chinese	<dbo:Island>	1
+INEX_LD-2012309	residents small island city-state  Malay Peninsula Chinese	<dbo:EthnicGroup>	1
+INEX_LD-2012311	John Lennon Yoko Ono album Starting Over	<dbo:Album>	7
+INEX_LD-2012313	John Turturro 1991 Coen Brothers film	<dbo:Film>	6
+INEX_LD-2012313	John Turturro 1991 Coen Brothers film	<dbo:Person>	1
+INEX_LD-2012315	Baguio Quezon City  Manila official independence 1945	<dbo:City>	3
+INEX_LD-2012315	Baguio Quezon City  Manila official independence 1945	<dbo:SocietalEvent>	2
+INEX_LD-2012315	Baguio Quezon City  Manila official independence 1945	<dbo:Event>	1
+INEX_LD-2012315	Baguio Quezon City  Manila official independence 1945	<dbo:Country>	1
+INEX_LD-2012317	daggeroso inclined to use a dagger novel Sons and Lovers	<dbo:WrittenWork>	2
+INEX_LD-2012317	daggeroso inclined to use a dagger novel Sons and Lovers	<dbo:Writer>	2
+INEX_LD-2012317	daggeroso inclined to use a dagger novel Sons and Lovers	<dbo:Book>	2
+INEX_LD-2012317	daggeroso inclined to use a dagger novel Sons and Lovers	<NONETYPE>	1
+INEX_LD-2012318	Directed Bela Glen Glenda Bride Monster Plan 9 Outer Space	<dbo:Film>	4
+INEX_LD-2012318	Directed Bela Glen Glenda Bride Monster Plan 9 Outer Space	<dbo:Artist>	2
+INEX_LD-2012318	Directed Bela Glen Glenda Bride Monster Plan 9 Outer Space	<dbo:Person>	1
+INEX_LD-2012319	 1994 short story collection Alice Munro is Open	<dbo:Book>	7
+INEX_LD-2012321	Asian port state-city Sir Stamford Raffles	<dbo:City>	6
+INEX_LD-2012321	Asian port state-city Sir Stamford Raffles	<dbo:Person>	1
+INEX_LD-2012323	Large glaciers island nation Langjokull Hofsjokull Vatnajokull	<dbo:Island>	5
+INEX_LD-2012323	Large glaciers island nation Langjokull Hofsjokull Vatnajokull	<dbo:NaturalPlace>	1
+INEX_LD-2012323	Large glaciers island nation Langjokull Hofsjokull Vatnajokull	<dbo:Glacier>	1
+INEX_LD-2012325	successor James G. Blaine studied law	<dbo:Politician>	6
+INEX_LD-2012325	successor James G. Blaine studied law	<dbo:Person>	1
+INEX_LD-2012327	Beloved author African-American Nobel Prize Literature	<dbo:Writer>	6
+INEX_LD-2012327	Beloved author African-American Nobel Prize Literature	<dbo:WrittenWork>	1
+INEX_LD-2012329	Sweden Iceland currency	<dbo:Currency>	7
+INEX_LD-2012331	Seoul Korea river name ethnic group China	<dbo:River>	7
+INEX_LD-2012333	Prime minister Canada nicknamed Silver-Tongued Laurier longest unbroken term	<dbo:PrimeMinister>	7
+INEX_LD-2012335	U.S. president authorise nuclear weapons against Japan	<dbo:Politician>	6
+INEX_LD-2012335	U.S. president authorise nuclear weapons against Japan	<dbo:Person>	1
+INEX_LD-2012336	1906 territory Papua island Australian	<dbo:Settlement>	4
+INEX_LD-2012336	1906 territory Papua island Australian	<dbo:Island>	3
+INEX_LD-2012337	Texas city Baylor University tornado 1953	<dbo:City>	5
+INEX_LD-2012337	Texas city Baylor University tornado 1953	<dbo:University>	1
+INEX_LD-2012337	Texas city Baylor University tornado 1953	<NONETYPE>	1
+INEX_LD-2012339	Nelson Mandela John Dube	<dbo:Politician>	4
+INEX_LD-2012339	Nelson Mandela John Dube	<dbo:TopicalConcept>	3
+INEX_LD-2012341	1997  Houston airport president	<dbo:Airport>	6
+INEX_LD-2012341	1997  Houston airport president	<dbo:Person>	1
+INEX_LD-2012343	The Heart of a Woman poet's autobiography	<dbo:WrittenWork>	2
+INEX_LD-2012343	The Heart of a Woman poet's autobiography	<dbo:Poet>	2
+INEX_LD-2012343	The Heart of a Woman poet's autobiography	<dbo:Poem>	2
+INEX_LD-2012343	The Heart of a Woman poet's autobiography	<dbo:Book>	1
+INEX_LD-2012345	Kennedy assassination governor of Texas seriously injured	<dbo:Governor>	7
+INEX_LD-2012347	seat Florida country Dade	<dbo:City>	3
+INEX_LD-2012347	seat Florida country Dade	<dbo:Settlement>	2
+INEX_LD-2012347	seat Florida country Dade	<dbo:PopulatedPlace>	1
+INEX_LD-2012347	seat Florida country Dade	<dbo:Place>	1
+INEX_LD-2012349	Alexander Nevsky Cathedral Bulgarian city liberation Turks	<dbo:HistoricBuilding>	4
+INEX_LD-2012349	Alexander Nevsky Cathedral Bulgarian city liberation Turks	<dbo:City>	3
+INEX_LD-2012351	Indian Cuisine dish rice dhal vegetables roti papad	<dbo:Food>	6
+INEX_LD-2012351	Indian Cuisine dish rice dhal vegetables roti papad	<NONETYPE>	1
+INEX_LD-2012353	country German language	<dbo:Country>	7
+INEX_LD-2012354	greatest guitarist	<dbo:Guitarist>	7
+INEX_LD-2012355	England football player highest paid	<dbo:SoccerPlayer>	7
+INEX_LD-2012357	 prima ballerina Bolshoi Theatre 1960	<dbo:Artist>	6
+INEX_LD-2012357	 prima ballerina Bolshoi Theatre 1960	<dbo:Person>	1
+INEX_LD-2012359	 Bob Ricker Executive Director the latest front group for the anti-gun movement	<dbo:Person>	6
+INEX_LD-2012359	 Bob Ricker Executive Director the latest front group for the anti-gun movement	<dbo:Non-ProfitOrganisation>	1
+INEX_LD-2012361	most famous award winning actor singer	<dbo:MusicalArtist>	6
+INEX_LD-2012361	most famous award winning actor singer	<dbo:Artist>	1
+INEX_LD-2012363	American twins famous  American professional tennis double players	<dbo:TennisPlayer>	7
+INEX_LD-2012365	mathematician computer scientist MIT's six inaugural MacVicar Faculty Fellows	<dbo:Scientist>	6
+INEX_LD-2012365	mathematician computer scientist MIT's six inaugural MacVicar Faculty Fellows	<NONETYPE>	1
+INEX_LD-2012367	invented telescope	<dbo:Scientist>	7
+INEX_LD-2012369	most famous civic-military airports	<dbo:Airport>	7
+INEX_LD-2012371	most beautiful railway stations world cities located	<dbo:RailwayStation>	5
+INEX_LD-2012371	most beautiful railway stations world cities located	<dbo:City>	2
+INEX_LD-2012372	famous historical battlefields opponents fought	<dbo:MilitaryConflict>	5
+INEX_LD-2012372	famous historical battlefields opponents fought	<dbo:HistoricPlace>	2
+INEX_LD-2012373	birds cannot fly	<dbo:Bird>	7
+INEX_LD-2012375	animals lay eggs mammals	<dbo:Mammal>	6
+INEX_LD-2012375	animals lay eggs mammals	<dbo:Animal>	1
+INEX_LD-2012377	allegedly caused World War I	<dbo:Event>	4
+INEX_LD-2012377	allegedly caused World War I	<dbo:MilitaryConflict>	2
+INEX_LD-2012377	allegedly caused World War I	<NONETYPE>	1
+INEX_LD-2012379	pairs cities same language same longitude different countries	<dbo:City>	6
+INEX_LD-2012379	pairs cities same language same longitude different countries	<dbo:Settlement>	1
+INEX_LD-2012381	movie directors directed a block buster	<dbo:Person>	5
+INEX_LD-2012381	movie directors directed a block buster	<dbo:Film>	1
+INEX_LD-2012381	movie directors directed a block buster	<NONETYPE>	1
+INEX_LD-2012383	famous computer scientists disappeared at sea	<dbo:Scientist>	6
+INEX_LD-2012383	famous computer scientists disappeared at sea	<dbo:Person>	1
+INEX_LD-2012385	famous politicians vegetarians	<dbo:Politician>	7
+INEX_LD-2012387	famous river confluence dam constructed	<dbo:River>	6
+INEX_LD-2012387	famous river confluence dam constructed	<NONETYPE>	1
+INEX_LD-2012389	frequently visited sharks gulf Indian Ocean	<dbo:Sea>	5
+INEX_LD-2012389	frequently visited sharks gulf Indian Ocean	<dbo:NaturalPlace>	1
+INEX_LD-2012389	frequently visited sharks gulf Indian Ocean	<NONETYPE>	1
+INEX_LD-2012390	baseball player most homeruns national league	<dbo:BaseballPlayer>	7
+INEX_XER-100	Operating systems to which Steve Jobs related	<dbo:Software>	7
+INEX_XER-106	Noble english person from the Hundred Years' War	<dbo:Noble>	5
+INEX_XER-106	Noble english person from the Hundred Years' War	<dbo:MilitaryPerson>	1
+INEX_XER-106	Noble english person from the Hundred Years' War	<dbo:GivenName>	1
+INEX_XER-108	State capitals of the United States of America	<dbo:City>	6
+INEX_XER-108	State capitals of the United States of America	<NONETYPE>	1
+INEX_XER-109	National capitals situated on islands	<dbo:City>	5
+INEX_XER-109	National capitals situated on islands	<dbo:AdministrativeRegion>	1
+INEX_XER-109	National capitals situated on islands	<NONETYPE>	1
+INEX_XER-110	Nobel Prize in Literature winners who were also poets	<dbo:Poet>	7
+INEX_XER-113	Formula 1 drivers that won the Monaco Grand Prix	<dbo:FormulaOneRacer>	7
+INEX_XER-114	Formula one races in Europe	<dbo:Race>	4
+INEX_XER-114	Formula one races in Europe	<dbo:GrandPrix>	1
+INEX_XER-114	Formula one races in Europe	<dbo:FormulaOneRacer>	1
+INEX_XER-114	Formula one races in Europe	<dbo:Event>	1
+INEX_XER-115	Formula One World Constructors' Champions	<dbo:FormulaOneTeam>	5
+INEX_XER-115	Formula One World Constructors' Champions	<dbo:SportsEvent>	1
+INEX_XER-115	Formula One World Constructors' Champions	<dbo:FormulaOneRacer>	1
+INEX_XER-116	Italian nobel prize winners	<dbo:Person>	5
+INEX_XER-116	Italian nobel prize winners	<dbo:Award>	1
+INEX_XER-116	Italian nobel prize winners	<NONETYPE>	1
+INEX_XER-117	Musicians who appeared in the Blues Brothers movies	<dbo:MusicalArtist>	7
+INEX_XER-118	French car models in 1960's	<dbo:Automobile>	7
+INEX_XER-119	Swiss cantons where they speak German	<dbo:AdministrativeRegion>	6
+INEX_XER-119	Swiss cantons where they speak German	<dbo:PopulatedPlace>	1
+INEX_XER-121	US presidents since 1960	<dbo:President>	7
+INEX_XER-122	Movies with eight or more Academy Awards	<dbo:Film>	6
+INEX_XER-122	Movies with eight or more Academy Awards	<dbo:Award>	1
+INEX_XER-123	FIFA world cup national team winners since 1974	<dbo:SportsTeam>	3
+INEX_XER-123	FIFA world cup national team winners since 1974	<dbo:SoccerTournament>	3
+INEX_XER-123	FIFA world cup national team winners since 1974	<dbo:SoccerClub>	1
+INEX_XER-124	Novels that won the Booker Prize	<dbo:Book>	5
+INEX_XER-124	Novels that won the Booker Prize	<dbo:Publisher>	1
+INEX_XER-124	Novels that won the Booker Prize	<NONETYPE>	1
+INEX_XER-125	countries which have won the FIFA world cup	<dbo:Country>	6
+INEX_XER-125	countries which have won the FIFA world cup	<NONETYPE>	1
+INEX_XER-126	toy train manufacturers that are still in business	<dbo:Company>	4
+INEX_XER-126	toy train manufacturers that are still in business	<dbo:Train>	2
+INEX_XER-126	toy train manufacturers that are still in business	<NONETYPE>	1
+INEX_XER-127	german female politicians	<dbo:Politician>	7
+INEX_XER-128	Bond girls	<dbo:Actor>	5
+INEX_XER-128	Bond girls	<dbo:Film>	2
+INEX_XER-129	Science fiction book written in the 1980	<dbo:Book>	7
+INEX_XER-130	Star Trek Captains	<dbo:Actor>	3
+INEX_XER-130	Star Trek Captains	<dbo:TelevisionShow>	2
+INEX_XER-130	Star Trek Captains	<dbo:Person>	1
+INEX_XER-130	Star Trek Captains	<NONETYPE>	1
+INEX_XER-132	living nordic classical composers	<dbo:ClassicalMusicArtist>	4
+INEX_XER-132	living nordic classical composers	<dbo:MusicGenre>	2
+INEX_XER-132	living nordic classical composers	<NONETYPE>	1
+INEX_XER-133	EU countries	<dbo:Country>	7
+INEX_XER-134	record-breaking sprinters in male 100-meter sprints	<dbo:Athlete>	6
+INEX_XER-134	record-breaking sprinters in male 100-meter sprints	<dbo:SportsEvent>	1
+INEX_XER-135	professional baseball team in Japan	<dbo:SportsTeam>	4
+INEX_XER-135	professional baseball team in Japan	<dbo:BasketballTeam>	3
+INEX_XER-136	Japanese players in Major League Baseball	<dbo:BaseballPlayer>	7
+INEX_XER-138	National Parks East Coast Canada US	<dbo:ProtectedArea>	5
+INEX_XER-138	National Parks East Coast Canada US	<dbo:Park>	2
+INEX_XER-139	Films directed by Akira Kurosawa	<dbo:Film>	6
+INEX_XER-139	Films directed by Akira Kurosawa	<NONETYPE>	1
+INEX_XER-140	Airports in Germany	<dbo:Airport>	7
+INEX_XER-141	Universities in Catalunya	<dbo:University>	7
+INEX_XER-143	Hanseatic league in Germany in the Netherlands Circle	<dbo:City>	5
+INEX_XER-143	Hanseatic league in Germany in the Netherlands Circle	<dbo:Settlement>	1
+INEX_XER-143	Hanseatic league in Germany in the Netherlands Circle	<NONETYPE>	1
+INEX_XER-144	chess world champions	<dbo:ChessPlayer>	4
+INEX_XER-144	chess world champions	<dbo:SportsEvent>	3
+INEX_XER-147	Chemical elements that are named after people	<dbo:ChemicalCompound>	4
+INEX_XER-147	Chemical elements that are named after people	<dbo:ChemicalSubstance>	2
+INEX_XER-147	Chemical elements that are named after people	<NONETYPE>	1
+INEX_XER-60	olympic classes dinghy sailing	<dbo:Olympics>	4
+INEX_XER-60	olympic classes dinghy sailing	<dbo:Ship>	2
+INEX_XER-60	olympic classes dinghy sailing	<NONETYPE>	1
+INEX_XER-62	Neil Gaiman novels	<dbo:Novel>	7
+INEX_XER-63	Hugo awarded best novels	<dbo:Novel>	6
+INEX_XER-63	Hugo awarded best novels	<dbo:WrittenWork>	1
+INEX_XER-64	Alan Moore graphic novels adapted to film	<dbo:Novel>	5
+INEX_XER-64	Alan Moore graphic novels adapted to film	<dbo:Writer>	1
+INEX_XER-64	Alan Moore graphic novels adapted to film	<dbo:Comic>	1
+INEX_XER-65	Pacific navigators Australia explorers	<dbo:Person>	4
+INEX_XER-65	Pacific navigators Australia explorers	<dbo:NaturalPlace>	2
+INEX_XER-65	Pacific navigators Australia explorers	<NONETYPE>	1
+INEX_XER-67	Ferris and observation wheels	<dbo:AmusementParkAttraction>	7
+INEX_XER-72	films shot in Venice	<dbo:Film>	7
+INEX_XER-73	magazines about indie-music	<dbo:Magazine>	7
+INEX_XER-74	circus mammals	<dbo:Mammal>	7
+INEX_XER-79	Works by Charles Rennie Mackintosh	<dbo:Building>	3
+INEX_XER-79	Works by Charles Rennie Mackintosh	<dbo:Work>	2
+INEX_XER-79	Works by Charles Rennie Mackintosh	<dbo:ArchitecturalStructure>	1
+INEX_XER-79	Works by Charles Rennie Mackintosh	<dbo:Architect>	1
+INEX_XER-81	Movies about English hooligans	<dbo:Film>	7
+INEX_XER-86	List of countries in World War Two	<dbo:Country>	7
+INEX_XER-87	Axis powers of World War II	<dbo:Country>	7
+INEX_XER-88	Nordic authors who are known for children's literature	<dbo:Writer>	7
+INEX_XER-91	Paul Auster novels	<dbo:Novel>	7
+INEX_XER-94	Hybrid cars sold in Europe	<dbo:Automobile>	7
+INEX_XER-95	Tom Hanks movies where he plays a leading role.	<dbo:Film>	7
+INEX_XER-96	Pure object-oriented programing languages	<dbo:ProgrammingLanguage>	6
+INEX_XER-96	Pure object-oriented programing languages	<dbo:Language>	1
+INEX_XER-97	Compilers that can compile both C and C++	<dbo:Software>	7
+INEX_XER-98	Makers of lawn tennis rackets	<dbo:Company>	7
+INEX_XER-99	Computer systems that have a recursive acronym for the name	<dbo:InformationAppliance>	4
+INEX_XER-99	Computer systems that have a recursive acronym for the name	<NONETYPE>	3
+QALD2_te-1	Which German cities have more than 250000 inhabitants?	<dbo:City>	7
+QALD2_te-100	Who produces Orangina?	<dbo:Company>	3
+QALD2_te-100	Who produces Orangina?	<dbo:Brewery>	2
+QALD2_te-100	Who produces Orangina?	<dbo:Plant>	1
+QALD2_te-100	Who produces Orangina?	<dbo:Beverage>	1
+QALD2_te-11	Who is the Formula 1 race driver with the most races?	<dbo:FormulaOneRacer>	6
+QALD2_te-11	Who is the Formula 1 race driver with the most races?	<dbo:RacingDriver>	1
+QALD2_te-12	Give me all world heritage sites designated within the past five years.	<dbo:WorldHeritageSite>	7
+QALD2_te-13	Who is the youngest player in the Premier League?	<dbo:SoccerPlayer>	7
+QALD2_te-14	Give me all members of Prodigy.	<dbo:MusicalArtist>	6
+QALD2_te-14	Give me all members of Prodigy.	<dbo:Person>	1
+QALD2_te-15	What is the longest river?	<dbo:River>	7
+QALD2_te-17	Give me all cars that are produced in Germany.	<dbo:Automobile>	7
+QALD2_te-19	Give me all people that were born in Vienna and died in Berlin.	<dbo:Person>	7
+QALD2_te-2	Who was the successor of John F. Kennedy?	<dbo:Politician>	7
+QALD2_te-21	What is the capital of Canada?	<dbo:City>	6
+QALD2_te-21	What is the capital of Canada?	<dbo:Place>	1
+QALD2_te-22	Who is the governor of Texas?	<dbo:Governor>	5
+QALD2_te-22	Who is the governor of Texas?	<dbo:Election>	2
+QALD2_te-24	Who was the father of Queen Elizabeth II?	<dbo:BritishRoyalty>	7
+QALD2_te-25	Which U.S. state has been admitted latest?	<dbo:AdministrativeRegion>	7
+QALD2_te-27	Sean Parnell is the governor of which U.S. state?	<dbo:AdministrativeRegion>	5
+QALD2_te-27	Sean Parnell is the governor of which U.S. state?	<dbo:Region>	1
+QALD2_te-27	Sean Parnell is the governor of which U.S. state?	<dbo:Governor>	1
+QALD2_te-28	Give me all movies directed by Francis Ford Coppola.	<dbo:Film>	7
+QALD2_te-29	Give me all actors starring in movies directed by and starring William Shatner.	<dbo:Artist>	5
+QALD2_te-29	Give me all actors starring in movies directed by and starring William Shatner.	<dbo:Person>	2
+QALD2_te-3	Who is the mayor of Berlin?	<dbo:Politician>	5
+QALD2_te-3	Who is the mayor of Berlin?	<dbo:OfficeHolder>	2
+QALD2_te-31	Give me all current Methodist national leaders.	<dbo:Cleric>	4
+QALD2_te-31	Give me all current Methodist national leaders.	<NONETYPE>	2
+QALD2_te-31	Give me all current Methodist national leaders.	<dbo:Person>	1
+QALD2_te-33	Give me all Australian nonprofit organizations.	<dbo:Non-ProfitOrganisation>	7
+QALD2_te-34	In which military conflicts did Lawrence of Arabia participate?	<dbo:MilitaryConflict>	7
+QALD2_te-35	Who developed Skype?	<dbo:Person>	5
+QALD2_te-35	Who developed Skype?	<dbo:Website>	1
+QALD2_te-35	Who developed Skype?	<dbo:Company>	1
+QALD2_te-39	Give me all companies in Munich.	<dbo:Company>	5
+QALD2_te-39	Give me all companies in Munich.	<dbo:Magazine>	2
+QALD2_te-40	List all boardgames by GMT.	<dbo:Game>	6
+QALD2_te-40	List all boardgames by GMT.	<NONETYPE>	1
+QALD2_te-41	Who founded Intel?	<dbo:BusinessPerson>	5
+QALD2_te-41	Who founded Intel?	<dbo:Person>	2
+QALD2_te-42	Who is the husband of Amanda Palmer?	<dbo:Person>	4
+QALD2_te-42	Who is the husband of Amanda Palmer?	<dbo:Writer>	3
+QALD2_te-43	Give me all breeds of the German Shepherd dog.	<dbo:Mammal>	4
+QALD2_te-43	Give me all breeds of the German Shepherd dog.	<NONETYPE>	2
+QALD2_te-43	Give me all breeds of the German Shepherd dog.	<dbo:Species>	1
+QALD2_te-44	Which cities does the Weser flow through?	<dbo:City>	7
+QALD2_te-45	Which countries are connected by the Rhine?	<dbo:Country>	7
+QALD2_te-46	Which professional surfers were born on the Philippines?	<dbo:Athlete>	7
+QALD2_te-48	In which UK city are the headquarters of the MI6?	<dbo:GovernmentAgency>	4
+QALD2_te-48	In which UK city are the headquarters of the MI6?	<NONETYPE>	3
+QALD2_te-49	Which other weapons did the designer of the Uzi develop?	<dbo:Weapon>	7
+QALD2_te-5	What is the second highest mountain on Earth?	<dbo:Mountain>	7
+QALD2_te-51	Give me all Frisian islands that belong to the Netherlands.	<dbo:Island>	7
+QALD2_te-53	What is the ruling party in Lisbon?	<dbo:PoliticalParty>	6
+QALD2_te-53	What is the ruling party in Lisbon?	<dbo:Election>	1
+QALD2_te-55	Which Greek goddesses dwelt on Mount Olympus?	<dbo:MythologicalFigure>	7
+QALD2_te-57	Give me the Apollo 14 astronauts.	<dbo:Astronaut>	7
+QALD2_te-58	What is the time zone of Salt Lake City?	<NONETYPE>	7
+QALD2_te-59	Which U.S. states are in the same timezone as Utah?	<dbo:AdministrativeRegion>	4
+QALD2_te-59	Which U.S. states are in the same timezone as Utah?	<dbo:Region>	3
+QALD2_te-6	Give me all professional skateboarders from Sweden.	<dbo:Athlete>	5
+QALD2_te-6	Give me all professional skateboarders from Sweden.	<dbo:Person>	1
+QALD2_te-6	Give me all professional skateboarders from Sweden.	<NONETYPE>	1
+QALD2_te-60	Give me a list of all lakes in Denmark.	<dbo:Lake>	7
+QALD2_te-63	Give me all Argentine films.	<dbo:Film>	7
+QALD2_te-64	Give me all launch pads operated by NASA.	<dbo:LaunchPad>	7
+QALD2_te-65	Which instruments did John Lennon play?	<NONETYPE>	6
+QALD2_te-65	Which instruments did John Lennon play?	<dbo:MusicalArtist>	1
+QALD2_te-66	Which ships were called after Benjamin Franklin?	<dbo:Ship>	7
+QALD2_te-67	Who are the parents of the wife of Juan Carlos I?	<dbo:Person>	4
+QALD2_te-67	Who are the parents of the wife of Juan Carlos I?	<dbo:Royalty>	2
+QALD2_te-67	Who are the parents of the wife of Juan Carlos I?	<NONETYPE>	1
+QALD2_te-72	In which U.S. state is Area 51 located?	<dbo:AdministrativeRegion>	3
+QALD2_te-72	In which U.S. state is Area 51 located?	<dbo:ProtectedArea>	2
+QALD2_te-72	In which U.S. state is Area 51 located?	<dbo:Region>	1
+QALD2_te-72	In which U.S. state is Area 51 located?	<dbo:PopulatedPlace>	1
+QALD2_te-75	Which daughters of British earls died in the same place they were born in?	<dbo:BritishRoyalty>	5
+QALD2_te-75	Which daughters of British earls died in the same place they were born in?	<dbo:Royalty>	1
+QALD2_te-75	Which daughters of British earls died in the same place they were born in?	<dbo:Person>	1
+QALD2_te-76	List the children of Margaret Thatcher.	<dbo:Person>	5
+QALD2_te-76	List the children of Margaret Thatcher.	<dbo:Politician>	2
+QALD2_te-77	Who was called Scarface?	<dbo:FictionalCharacter>	7
+QALD2_te-8	To which countries does the Himalayan mountain system extend?	<dbo:Country>	7
+QALD2_te-80	Give me all books by William Goldman with more than 300 pages.	<dbo:Book>	7
+QALD2_te-81	Which books by Kerouac were published by Viking Press?	<dbo:Book>	7
+QALD2_te-82	Give me a list of all American inventions.	<NONETYPE>	7
+QALD2_te-84	Who created the comic Captain America?	<dbo:ComicsCreator>	6
+QALD2_te-84	Who created the comic Captain America?	<dbo:Person>	1
+QALD2_te-86	What is the largest city in Australia?	<dbo:City>	7
+QALD2_te-87	Who composed the music for Harold and Maude?	<dbo:Writer>	2
+QALD2_te-87	Who composed the music for Harold and Maude?	<dbo:MusicalArtist>	2
+QALD2_te-87	Who composed the music for Harold and Maude?	<dbo:Person>	1
+QALD2_te-87	Who composed the music for Harold and Maude?	<dbo:MusicalWork>	1
+QALD2_te-87	Who composed the music for Harold and Maude?	<dbo:Musical>	1
+QALD2_te-88	Which films starring Clint Eastwood did he direct himself?	<dbo:Film>	7
+QALD2_te-89	In which city was the former Dutch queen Juliana buried?	<dbo:City>	7
+QALD2_te-9	Give me a list of all trumpet players that were bandleaders.	<dbo:MusicalArtist>	7
+QALD2_te-90	Where is the residence of the prime minister of Spain?	<dbo:Building>	6
+QALD2_te-90	Where is the residence of the prime minister of Spain?	<dbo:Place>	1
+QALD2_te-91	Which U.S. State has the abbreviation MN?	<dbo:AdministrativeRegion>	5
+QALD2_te-91	Which U.S. State has the abbreviation MN?	<dbo:Region>	1
+QALD2_te-91	Which U.S. State has the abbreviation MN?	<NONETYPE>	1
+QALD2_te-92	Show me all songs from Bruce Springsteen released between 1980 and 1990.	<dbo:Song>	7
+QALD2_te-93	Which movies did Sam Raimi direct after Army of Darkness?	<dbo:Film>	7
+QALD2_te-95	Who wrote the lyrics for the Polish national anthem?	<dbo:Writer>	6
+QALD2_te-95	Who wrote the lyrics for the Polish national anthem?	<dbo:Person>	1
+QALD2_te-97	Who painted The Storm on the Sea of Galilee?	<dbo:Artist>	7
+QALD2_te-98	Which country does the creator of Miffy come from?	<dbo:Country>	7
+QALD2_te-99	For which label did Elvis record his first album?	<dbo:RecordLabel>	6
+QALD2_te-99	For which label did Elvis record his first album?	<dbo:Album>	1
+QALD2_tr-1	Give me all female Russian astronauts.	<dbo:Astronaut>	7
+QALD2_tr-10	In which country does the Nile start?	<dbo:Country>	7
+QALD2_tr-11	Which countries have places with more than two caves?	<dbo:Country>	7
+QALD2_tr-13	Which classis does the Millepede belong to?	<dbo:Animal>	5
+QALD2_tr-13	Which classis does the Millepede belong to?	<dbo:Species>	2
+QALD2_tr-15	Who created Goofy?	<dbo:ComicsCreator>	6
+QALD2_tr-15	Who created Goofy?	<dbo:Person>	1
+QALD2_tr-16	Give me the capitals of all countries in Africa.	<dbo:City>	7
+QALD2_tr-17	Give me all cities in New Jersey with more than 100000 inhabitants.	<dbo:City>	7
+QALD2_tr-18	Which museum exhibits The Scream by Munch?	<dbo:Museum>	6
+QALD2_tr-18	Which museum exhibits The Scream by Munch?	<dbo:Artwork>	1
+QALD2_tr-21	Which states border Illinois?	<dbo:AdministrativeRegion>	5
+QALD2_tr-21	Which states border Illinois?	<dbo:Region>	1
+QALD2_tr-21	Which states border Illinois?	<NONETYPE>	1
+QALD2_tr-22	In which country is the Limerick Lake?	<dbo:Country>	7
+QALD2_tr-23	Which television shows were created by Walt Disney?	<dbo:TelevisionShow>	7
+QALD2_tr-24	Which mountain is the highest after the Annapurna?	<dbo:Mountain>	7
+QALD2_tr-25	In which films directed by Garry Marshall was Julia Roberts starring?	<dbo:Film>	7
+QALD2_tr-26	Which bridges are of the same type as the Manhattan Bridge?	<dbo:Bridge>	7
+QALD2_tr-28	Which European countries have a constitutional monarchy?	<dbo:Country>	7
+QALD2_tr-29	Which awards did WikiLeaks win?	<dbo:Award>	7
+QALD2_tr-3	Who is the daughter of Bill Clinton married to?	<dbo:Person>	5
+QALD2_tr-3	Who is the daughter of Bill Clinton married to?	<dbo:BusinessPerson>	1
+QALD2_tr-3	Who is the daughter of Bill Clinton married to?	<NONETYPE>	1
+QALD2_tr-30	Which state of the USA has the highest population density?	<dbo:AdministrativeRegion>	6
+QALD2_tr-30	Which state of the USA has the highest population density?	<dbo:PopulatedPlace>	1
+QALD2_tr-31	What is the currency of the Czech Republic?	<dbo:Currency>	7
+QALD2_tr-32	Which countries in the European Union adopted the Euro?	<dbo:Country>	7
+QALD2_tr-34	Which countries have more than two official languages?	<dbo:Country>	7
+QALD2_tr-35	Who is the owner of Universal Studios?	<dbo:BusinessPerson>	4
+QALD2_tr-35	Who is the owner of Universal Studios?	<dbo:Person>	2
+QALD2_tr-35	Who is the owner of Universal Studios?	<NONETYPE>	1
+QALD2_tr-36	Through which countries does the Yenisei river flow?	<dbo:Country>	7
+QALD2_tr-38	Which monarchs of the United Kingdom were married to a German?	<dbo:Monarch>	6
+QALD2_tr-38	Which monarchs of the United Kingdom were married to a German?	<dbo:Person>	1
+QALD2_tr-4	Which river does the Brooklyn Bridge cross?	<dbo:River>	7
+QALD2_tr-40	What is the highest mountain in Australia?	<dbo:Mountain>	7
+QALD2_tr-41	Give me all soccer clubs in Spain.	<dbo:SoccerClub>	7
+QALD2_tr-42	What are the official languages of the Philippines?	<dbo:Language>	7
+QALD2_tr-43	Who is the mayor of New York City?	<dbo:Mayor>	7
+QALD2_tr-44	Who designed the Brooklyn Bridge?	<dbo:Architect>	6
+QALD2_tr-44	Who designed the Brooklyn Bridge?	<dbo:Bridge>	1
+QALD2_tr-45	Which telecommunications organizations are located in Belgium?	<dbo:Company>	4
+QALD2_tr-45	Which telecommunications organizations are located in Belgium?	<dbo:Organisation>	2
+QALD2_tr-45	Which telecommunications organizations are located in Belgium?	<dbo:BroadcastNetwork>	1
+QALD2_tr-47	What is the highest place of Karakoram?	<dbo:Mountain>	4
+QALD2_tr-47	What is the highest place of Karakoram?	<dbo:Place>	1
+QALD2_tr-47	What is the highest place of Karakoram?	<dbo:NaturalPlace>	1
+QALD2_tr-47	What is the highest place of Karakoram?	<dbo:MountainRange>	1
+QALD2_tr-49	Give me all companies in the advertising industry.	<dbo:Company>	7
+QALD2_tr-50	What did Bruce Carver die from?	<dbo:Disease>	5
+QALD2_tr-50	What did Bruce Carver die from?	<dbo:VideoGame>	1
+QALD2_tr-50	What did Bruce Carver die from?	<dbo:Person>	1
+QALD2_tr-51	Give me all school types.	<dbo:School>	6
+QALD2_tr-51	Give me all school types.	<dbo:EducationalInstitution>	1
+QALD2_tr-52	Which presidents were born in 1945?	<dbo:President>	7
+QALD2_tr-53	Give me all presidents of the United States.	<dbo:President>	7
+QALD2_tr-54	Who was the wife of U.S. president Lincoln?	<dbo:Person>	6
+QALD2_tr-54	Who was the wife of U.S. president Lincoln?	<NONETYPE>	1
+QALD2_tr-55	Who developed the video game World of Warcraft?	<dbo:Person>	4
+QALD2_tr-55	Who developed the video game World of Warcraft?	<dbo:Company>	2
+QALD2_tr-55	Who developed the video game World of Warcraft?	<dbo:Game>	1
+QALD2_tr-57	List all episodes of the first season of the HBO television series The Sopranos	<dbo:TelevisionEpisode>	4
+QALD2_tr-57	List all episodes of the first season of the HBO television series The Sopranos	<dbo:TelevisionSeason>	2
+QALD2_tr-57	List all episodes of the first season of the HBO television series The Sopranos	<dbo:TelevisionShow>	1
+QALD2_tr-58	Who produced the most films?	<dbo:Film>	3
+QALD2_tr-58	Who produced the most films?	<dbo:Artist>	3
+QALD2_tr-58	Who produced the most films?	<dbo:Person>	1
+QALD2_tr-59	Give me all people with first name Jimmy.	<dbo:Person>	7
+QALD2_tr-6	Where did Abraham Lincoln die?	<dbo:Place>	7
+QALD2_tr-61	Which mountains are higher than the Nanga Parbat?	<dbo:Mountain>	7
+QALD2_tr-62	Who created Wikipedia?	<dbo:Person>	6
+QALD2_tr-62	Who created Wikipedia?	<dbo:Non-ProfitOrganisation>	1
+QALD2_tr-63	Give me all actors starring in Batman Begins.	<dbo:Actor>	6
+QALD2_tr-63	Give me all actors starring in Batman Begins.	<dbo:Film>	1
+QALD2_tr-64	Which software has been developed by organizations founded in California?	<dbo:Software>	7
+QALD2_tr-65	Which companies work in the aerospace industry as well as on nuclear reactor technology?	<dbo:Company>	7
+QALD2_tr-68	Which actors were born in Germany?	<dbo:Actor>	7
+QALD2_tr-69	Which caves have more than 3 entrances?	<dbo:Cave>	7
+QALD2_tr-70	Give me all films produced by Hal Roach.	<dbo:Film>	7
+QALD2_tr-71	Give me all video games published by Mean Hamster Software.	<dbo:VideoGame>	7
+QALD2_tr-72	Which languages are spoken in Estonia?	<dbo:Language>	5
+QALD2_tr-72	Which languages are spoken in Estonia?	<dbo:Country>	2
+QALD2_tr-73	Who owns Aldi?	<dbo:Person>	7
+QALD2_tr-74	Which capitals in Europe were host cities of the summer olympic games?	<dbo:City>	7
+QALD2_tr-75	Who has been the 5th president of the United States of America?	<dbo:President>	7
+QALD2_tr-77	Which music albums contain the song Last Christmas?	<dbo:Album>	4
+QALD2_tr-77	Which music albums contain the song Last Christmas?	<dbo:Song>	3
+QALD2_tr-78	Give me all books written by Danielle Steel.	<dbo:Book>	7
+QALD2_tr-79	Which airports are located in California, USA?	<dbo:Airport>	7
+QALD2_tr-8	Which states of Germany are governed by the Social Democratic Party?	<dbo:AdministrativeRegion>	7
+QALD2_tr-80	Give me all Canadian Grunge record labels.	<dbo:RecordLabel>	5
+QALD2_tr-80	Give me all Canadian Grunge record labels.	<dbo:MusicalWork>	2
+QALD2_tr-81	Which country has the most official languages?	<dbo:Country>	7
+QALD2_tr-82	In which programming language is GIMP written?	<dbo:ProgrammingLanguage>	7
+QALD2_tr-83	Who produced films starring Natalie Portman?	<dbo:Person>	3
+QALD2_tr-83	Who produced films starring Natalie Portman?	<dbo:Film>	1
+QALD2_tr-83	Who produced films starring Natalie Portman?	<dbo:Artist>	1
+QALD2_tr-83	Who produced films starring Natalie Portman?	<dbo:Actor>	1
+QALD2_tr-83	Who produced films starring Natalie Portman?	<NONETYPE>	1
+QALD2_tr-84	Give me all movies with Tom Cruise.	<dbo:Film>	7
+QALD2_tr-85	In which films did Julia Roberts as well as Richard Gere play?	<dbo:Film>	7
+QALD2_tr-86	Give me all female German chancellors.	<dbo:OfficeHolder>	3
+QALD2_tr-86	Give me all female German chancellors.	<dbo:Name>	2
+QALD2_tr-86	Give me all female German chancellors.	<dbo:Person>	1
+QALD2_tr-86	Give me all female German chancellors.	<NONETYPE>	1
+QALD2_tr-87	Who wrote the book The pillars of the Earth?	<dbo:Writer>	7
+QALD2_tr-89	Give me all soccer clubs in the Premier League.	<dbo:SoccerClub>	6
+QALD2_tr-89	Give me all soccer clubs in the Premier League.	<dbo:FootballLeagueSeason>	1
+QALD2_tr-9	Which U.S. states possess gold minerals?	<dbo:AdministrativeRegion>	4
+QALD2_tr-9	Which U.S. states possess gold minerals?	<dbo:Region>	3
+QALD2_tr-91	Which organizations were founded in 1950?	<dbo:Organisation>	7
+QALD2_tr-92	What is the highest mountain?	<dbo:Mountain>	6
+QALD2_tr-92	What is the highest mountain?	<dbo:MountainRange>	1
+SemSearch_ES-1	44 magnum hunting	<dbo:Weapon>	7
+SemSearch_ES-10	asheville north carolina	<dbo:City>	7
+SemSearch_ES-100	YMCA Tampa	<dbo:SportFacility>	2
+SemSearch_ES-100	YMCA Tampa	<dbo:Organisation>	2
+SemSearch_ES-100	YMCA Tampa	<dbo:Stadium>	1
+SemSearch_ES-100	YMCA Tampa	<dbo:Place>	1
+SemSearch_ES-100	YMCA Tampa	<dbo:EducationalInstitution>	1
+SemSearch_ES-101	ashley wagner	<dbo:FigureSkater>	7
+SemSearch_ES-102	beach flowers	<dbo:Plant>	7
+SemSearch_ES-103	bounce city humble tx	<dbo:City>	7
+SemSearch_ES-104	bourbonnais il	<dbo:Town>	5
+SemSearch_ES-104	bourbonnais il	<dbo:PopulatedPlace>	1
+SemSearch_ES-104	bourbonnais il	<dbo:City>	1
+SemSearch_ES-105	cedar garden apartments	<dbo:Building>	3
+SemSearch_ES-105	cedar garden apartments	<dbo:Settlement>	2
+SemSearch_ES-105	cedar garden apartments	<dbo:Skyscraper>	1
+SemSearch_ES-105	cedar garden apartments	<dbo:ArchitecturalStructure>	1
+SemSearch_ES-106	chase masterson	<dbo:MusicalArtist>	4
+SemSearch_ES-106	chase masterson	<dbo:Artist>	2
+SemSearch_ES-106	chase masterson	<dbo:Actor>	1
+SemSearch_ES-107	concord steel	<dbo:Company>	6
+SemSearch_ES-107	concord steel	<NONETYPE>	1
+SemSearch_ES-108	danielia cotton	<dbo:MusicalArtist>	7
+SemSearch_ES-109	david hewlett	<dbo:Artist>	5
+SemSearch_ES-109	david hewlett	<dbo:Writer>	1
+SemSearch_ES-109	david hewlett	<dbo:Person>	1
+SemSearch_ES-11	austin powers	<dbo:FictionalCharacter>	3
+SemSearch_ES-11	austin powers	<dbo:ComicsCharacter>	3
+SemSearch_ES-11	austin powers	<dbo:Film>	1
+SemSearch_ES-111	eagle rock, ca	<dbo:Town>	3
+SemSearch_ES-111	eagle rock, ca	<dbo:City>	2
+SemSearch_ES-111	eagle rock, ca	<dbo:Settlement>	1
+SemSearch_ES-111	eagle rock, ca	<dbo:NaturalPlace>	1
+SemSearch_ES-112	espresso tv stands	<dbo:TelevisionShow>	4
+SemSearch_ES-112	espresso tv stands	<NONETYPE>	3
+SemSearch_ES-114	glenn frey	<dbo:MusicalArtist>	6
+SemSearch_ES-114	glenn frey	<dbo:Person>	1
+SemSearch_ES-115	goodwill of michigan	<dbo:Non-ProfitOrganisation>	5
+SemSearch_ES-115	goodwill of michigan	<dbo:Organisation>	1
+SemSearch_ES-115	goodwill of michigan	<dbo:Company>	1
+SemSearch_ES-118	iowa energy	<dbo:BasketballTeam>	6
+SemSearch_ES-118	iowa energy	<dbo:SportsTeamSeason>	1
+SemSearch_ES-119	john elliott	<dbo:Person>	6
+SemSearch_ES-119	john elliott	<NONETYPE>	1
+SemSearch_ES-12	austin texas	<dbo:City>	7
+SemSearch_ES-120	lawrence general hospital	<dbo:Hospital>	7
+SemSearch_ES-123	michael zimmerman	<dbo:Writer>	7
+SemSearch_ES-124	motorola bluetooth hs850	<dbo:Device>	7
+SemSearch_ES-125	nokia e73	<dbo:Device>	7
+SemSearch_ES-127	palm tungsten e2 handheld	<dbo:InformationAppliance>	6
+SemSearch_ES-127	palm tungsten e2 handheld	<dbo:Device>	1
+SemSearch_ES-128	philadelphia neufchatel cheese	<dbo:Cheese>	7
+SemSearch_ES-129	pizza populous detroit mi	<dbo:Restaurant>	7
+SemSearch_ES-13	banana paper making	<NONETYPE>	7
+SemSearch_ES-130	plymouth police department	<dbo:UnitOfWork>	2
+SemSearch_ES-130	plymouth police department	<dbo:MilitaryUnit>	2
+SemSearch_ES-130	plymouth police department	<dbo:Building>	2
+SemSearch_ES-130	plymouth police department	<NONETYPE>	1
+SemSearch_ES-131	scpa san diego	<dbo:School>	5
+SemSearch_ES-131	scpa san diego	<dbo:Organisation>	1
+SemSearch_ES-131	scpa san diego	<dbo:EducationalInstitution>	1
+SemSearch_ES-132	sealy mattress co	<dbo:Company>	7
+SemSearch_ES-133	sedona hiking trails	<dbo:MountainRange>	4
+SemSearch_ES-133	sedona hiking trails	<dbo:NaturalPlace>	2
+SemSearch_ES-133	sedona hiking trails	<NONETYPE>	1
+SemSearch_ES-134	skye woods	<dbo:AdultActor>	7
+SemSearch_ES-135	spring shoes canada	<dbo:Fashion>	3
+SemSearch_ES-135	spring shoes canada	<dbo:Company>	2
+SemSearch_ES-135	spring shoes canada	<dbo:Place>	1
+SemSearch_ES-135	spring shoes canada	<NONETYPE>	1
+SemSearch_ES-136	sri lanka government gazette	<dbo:Newspaper>	7
+SemSearch_ES-137	steak express	<dbo:Restaurant>	6
+SemSearch_ES-137	steak express	<NONETYPE>	1
+SemSearch_ES-138	syracuse spca	<dbo:Non-ProfitOrganisation>	4
+SemSearch_ES-138	syracuse spca	<dbo:Stadium>	2
+SemSearch_ES-138	syracuse spca	<NONETYPE>	1
+SemSearch_ES-139	the big texan steak house	<dbo:Restaurant>	7
+SemSearch_ES-14	ben franklin	<dbo:Politician>	7
+SemSearch_ES-140	toledo bend realty	<dbo:Company>	4
+SemSearch_ES-140	toledo bend realty	<NONETYPE>	2
+SemSearch_ES-140	toledo bend realty	<dbo:Park>	1
+SemSearch_ES-141	ventura county court	<dbo:Building>	4
+SemSearch_ES-141	ventura county court	<dbo:GovernmentAgency>	3
+SemSearch_ES-142	windsor hotel philadelphia	<dbo:Hotel>	7
+SemSearch_ES-15	bradley center	<dbo:Stadium>	4
+SemSearch_ES-15	bradley center	<dbo:SportFacility>	2
+SemSearch_ES-15	bradley center	<dbo:Place>	1
+SemSearch_ES-16	brooklyn bridge	<dbo:Bridge>	7
+SemSearch_ES-17	butte montana	<dbo:City>	7
+SemSearch_ES-18	canasta cards	<dbo:Game>	6
+SemSearch_ES-18	canasta cards	<NONETYPE>	1
+SemSearch_ES-19	carl lewis	<dbo:Athlete>	7
+SemSearch_ES-2	B. F. Skinner	<dbo:Philosopher>	6
+SemSearch_ES-2	B. F. Skinner	<dbo:Person>	1
+SemSearch_ES-20	carolina	<dbo:AdministrativeRegion>	5
+SemSearch_ES-20	carolina	<dbo:Region>	1
+SemSearch_ES-20	carolina	<NONETYPE>	1
+SemSearch_ES-21	charles darwin	<dbo:Scientist>	7
+SemSearch_ES-22	city of charlotte	<dbo:City>	7
+SemSearch_ES-23	city of virginia beach	<dbo:City>	6
+SemSearch_ES-23	city of virginia beach	<dbo:Place>	1
+SemSearch_ES-24	coastal carolina	<dbo:University>	4
+SemSearch_ES-24	coastal carolina	<dbo:NaturalPlace>	3
+SemSearch_ES-25	david suchet	<dbo:Person>	7
+SemSearch_ES-26	disney orlando	<dbo:AmusementParkAttraction>	7
+SemSearch_ES-27	earl may	<dbo:Person>	4
+SemSearch_ES-27	earl may	<NONETYPE>	2
+SemSearch_ES-27	earl may	<dbo:Agent>	1
+SemSearch_ES-28	el salvador	<dbo:Country>	7
+SemSearch_ES-29	ellis college	<dbo:University>	6
+SemSearch_ES-29	ellis college	<dbo:EducationalInstitution>	1
+SemSearch_ES-3	Bookwork	<NONETYPE>	7
+SemSearch_ES-30	eloan line of credit	<dbo:Bank>	6
+SemSearch_ES-30	eloan line of credit	<dbo:Website>	1
+SemSearch_ES-31	emery	<dbo:SoccerManager>	4
+SemSearch_ES-31	emery	<dbo:City>	2
+SemSearch_ES-31	emery	<NONETYPE>	1
+SemSearch_ES-32	fitzgerald auto mall chambersburg pa	<dbo:ShoppingMall>	6
+SemSearch_ES-32	fitzgerald auto mall chambersburg pa	<dbo:Company>	1
+SemSearch_ES-33	harry potter	<dbo:FictionalCharacter>	4
+SemSearch_ES-33	harry potter	<dbo:Novel>	3
+SemSearch_ES-34	harry potter movie	<dbo:Film>	7
+SemSearch_ES-35	hospice of cincinnati	<dbo:Hospital>	7
+SemSearch_ES-36	imdb batman returns	<dbo:Film>	4
+SemSearch_ES-36	imdb batman returns	<NONETYPE>	2
+SemSearch_ES-36	imdb batman returns	<dbo:MusicalWork>	1
+SemSearch_ES-37	jack johnson	<dbo:MusicalArtist>	6
+SemSearch_ES-37	jack johnson	<dbo:Person>	1
+SemSearch_ES-38	jack the ripper	<dbo:Murderer>	7
+SemSearch_ES-39	james caldwell high school	<dbo:School>	7
+SemSearch_ES-4	NAACP Image Awards	<dbo:Award>	7
+SemSearch_ES-40	james clayton md	<dbo:Medician>	6
+SemSearch_ES-40	james clayton md	<NONETYPE>	1
+SemSearch_ES-41	joan of arc	<dbo:Saint>	3
+SemSearch_ES-41	joan of arc	<dbo:FictionalCharacter>	3
+SemSearch_ES-41	joan of arc	<dbo:Person>	1
+SemSearch_ES-42	john maxwell	<dbo:Writer>	6
+SemSearch_ES-42	john maxwell	<dbo:Person>	1
+SemSearch_ES-45	keith urban	<dbo:MusicalArtist>	6
+SemSearch_ES-45	keith urban	<dbo:MusicalWork>	1
+SemSearch_ES-47	king arthur	<dbo:FictionalCharacter>	3
+SemSearch_ES-47	king arthur	<dbo:Film>	2
+SemSearch_ES-47	king arthur	<dbo:BritishRoyalty>	2
+SemSearch_ES-48	la scala restaurant philadelphia	<dbo:Restaurant>	7
+SemSearch_ES-49	laura bush	<dbo:Writer>	6
+SemSearch_ES-49	laura bush	<dbo:Person>	1
+SemSearch_ES-5	Scott County	<dbo:AdministrativeRegion>	6
+SemSearch_ES-5	Scott County	<dbo:Town>	1
+SemSearch_ES-50	laura steele bob and tom	<dbo:RadioHost>	5
+SemSearch_ES-50	laura steele bob and tom	<dbo:TelevisionShow>	1
+SemSearch_ES-50	laura steele bob and tom	<dbo:Person>	1
+SemSearch_ES-51	lexus of maplewood	<dbo:Company>	4
+SemSearch_ES-51	lexus of maplewood	<dbo:Automobile>	3
+SemSearch_ES-52	lincoln park	<dbo:Park>	7
+SemSearch_ES-53	lynchburg virginia	<dbo:City>	7
+SemSearch_ES-54	marc anthony	<dbo:MusicalArtist>	7
+SemSearch_ES-55	marcus theaters	<dbo:Theatre>	6
+SemSearch_ES-55	marcus theaters	<dbo:Company>	1
+SemSearch_ES-56	mario bros	<dbo:VideoGame>	7
+SemSearch_ES-57	martin luther king	<dbo:Politician>	6
+SemSearch_ES-57	martin luther king	<dbo:ChristianBishop>	1
+SemSearch_ES-58	mason ohio	<dbo:City>	7
+SemSearch_ES-59	mercy hospital in des moines, ia	<dbo:Hospital>	7
+SemSearch_ES-6	air wisconsin	<dbo:Airline>	5
+SemSearch_ES-6	air wisconsin	<dbo:Airport>	2
+SemSearch_ES-60	michael douglas	<dbo:Artist>	6
+SemSearch_ES-60	michael douglas	<dbo:Film>	1
+SemSearch_ES-61	mr rourke fantasy island	<dbo:TelevisionShow>	4
+SemSearch_ES-61	mr rourke fantasy island	<dbo:FictionalCharacter>	3
+SemSearch_ES-63	old winchester shotguns	<dbo:Weapon>	7
+SemSearch_ES-64	omeara ford	<dbo:Automobile>	5
+SemSearch_ES-64	omeara ford	<dbo:Company>	2
+SemSearch_ES-65	orlando florida	<dbo:City>	7
+SemSearch_ES-66	overeaters anonymous	<dbo:Organisation>	5
+SemSearch_ES-66	overeaters anonymous	<dbo:Website>	1
+SemSearch_ES-66	overeaters anonymous	<NONETYPE>	1
+SemSearch_ES-67	ovguide movies	<dbo:Film>	7
+SemSearch_ES-68	pierce county washington	<dbo:Town>	3
+SemSearch_ES-68	pierce county washington	<dbo:AdministrativeRegion>	3
+SemSearch_ES-68	pierce county washington	<dbo:Region>	1
+SemSearch_ES-69	piosenki mp3	<dbo:Single>	3
+SemSearch_ES-69	piosenki mp3	<NONETYPE>	3
+SemSearch_ES-69	piosenki mp3	<dbo:MusicalWork>	1
+SemSearch_ES-7	airsoft glock	<dbo:Software>	4
+SemSearch_ES-7	airsoft glock	<dbo:Weapon>	3
+SemSearch_ES-70	radio italia online	<dbo:RadioStation>	6
+SemSearch_ES-70	radio italia online	<dbo:Website>	1
+SemSearch_ES-71	richmond virginia	<dbo:City>	7
+SemSearch_ES-72	rock 103 memphis	<dbo:RadioStation>	5
+SemSearch_ES-72	rock 103 memphis	<dbo:MusicalWork>	2
+SemSearch_ES-73	rowan university	<dbo:University>	7
+SemSearch_ES-74	sacred heart u	<dbo:University>	4
+SemSearch_ES-74	sacred heart u	<dbo:HistoricBuilding>	2
+SemSearch_ES-74	sacred heart u	<dbo:Religious>	1
+SemSearch_ES-75	sagemont church houston tx	<dbo:Building>	5
+SemSearch_ES-75	sagemont church houston tx	<dbo:Organisation>	2
+SemSearch_ES-76	san antonio	<dbo:City>	7
+SemSearch_ES-77	savannah tech	<dbo:University>	5
+SemSearch_ES-77	savannah tech	<dbo:Place>	1
+SemSearch_ES-77	savannah tech	<NONETYPE>	1
+SemSearch_ES-78	sharp pc	<dbo:InformationAppliance>	4
+SemSearch_ES-78	sharp pc	<dbo:Device>	3
+SemSearch_ES-79	shobana masala	<dbo:Artist>	7
+SemSearch_ES-8	aloha sol	<dbo:Building>	6
+SemSearch_ES-8	aloha sol	<dbo:Organisation>	1
+SemSearch_ES-80	sonny and cher	<dbo:MusicalArtist>	6
+SemSearch_ES-80	sonny and cher	<NONETYPE>	1
+SemSearch_ES-81	south dakota state university	<dbo:University>	7
+SemSearch_ES-82	st lucia	<dbo:Country>	4
+SemSearch_ES-82	st lucia	<dbo:Region>	2
+SemSearch_ES-82	st lucia	<dbo:Saint>	1
+SemSearch_ES-83	st paul saints	<dbo:Saint>	7
+SemSearch_ES-84	the dish danielle fishel	<dbo:TelevisionShow>	6
+SemSearch_ES-84	the dish danielle fishel	<NONETYPE>	1
+SemSearch_ES-85	the longest yard sale	<dbo:Company>	3
+SemSearch_ES-85	the longest yard sale	<dbo:Place>	2
+SemSearch_ES-85	the longest yard sale	<NONETYPE>	2
+SemSearch_ES-86	the morning call lehigh valley pa	<dbo:Newspaper>	7
+SemSearch_ES-87	the quick lift	<dbo:Device>	4
+SemSearch_ES-87	the quick lift	<NONETYPE>	3
+SemSearch_ES-88	thomas jefferson	<dbo:President>	7
+SemSearch_ES-89	university of north dakota	<dbo:University>	7
+SemSearch_ES-9	american embassy nairobi	<dbo:Building>	5
+SemSearch_ES-9	american embassy nairobi	<dbo:Place>	1
+SemSearch_ES-9	american embassy nairobi	<dbo:Ambassador>	1
+SemSearch_ES-90	university of phoenix	<dbo:University>	7
+SemSearch_ES-91	westminster abbey	<dbo:HistoricBuilding>	4
+SemSearch_ES-91	westminster abbey	<dbo:Religious>	1
+SemSearch_ES-91	westminster abbey	<dbo:Place>	1
+SemSearch_ES-91	westminster abbey	<dbo:HistoricPlace>	1
+SemSearch_ES-93	08 toyota tundra	<dbo:Automobile>	7
+SemSearch_ES-94	Hugh Downs	<dbo:Person>	7
+SemSearch_ES-95	MADRID	<dbo:City>	7
+SemSearch_ES-96	New England Coffee	<dbo:Restaurant>	3
+SemSearch_ES-96	New England Coffee	<dbo:Company>	3
+SemSearch_ES-96	New England Coffee	<dbo:Beverage>	1
+SemSearch_ES-97	PINK PANTHER 2	<dbo:Film>	6
+SemSearch_ES-97	PINK PANTHER 2	<dbo:HollywoodCartoon>	1
+SemSearch_ES-98	University of Texas at Austin	<dbo:University>	6
+SemSearch_ES-98	University of Texas at Austin	<dbo:EducationalInstitution>	1
+SemSearch_ES-99	University of York	<dbo:University>	7
+SemSearch_LS-1	Apollo astronauts who walked on the Moon	<dbo:Astronaut>	7
+SemSearch_LS-10	did nicole kidman have any siblings	<dbo:Artist>	4
+SemSearch_LS-10	did nicole kidman have any siblings	<dbo:Person>	2
+SemSearch_LS-10	did nicole kidman have any siblings	<NONETYPE>	1
+SemSearch_LS-11	dioceses of the church of ireland	<dbo:Diocese>	7
+SemSearch_LS-12	first targets of the atomic bomb	<dbo:City>	5
+SemSearch_LS-12	first targets of the atomic bomb	<dbo:MilitaryConflict>	1
+SemSearch_LS-12	first targets of the atomic bomb	<NONETYPE>	1
+SemSearch_LS-13	five great epics of Tamil literature	<dbo:Book>	5
+SemSearch_LS-13	five great epics of Tamil literature	<dbo:WrittenWork>	2
+SemSearch_LS-14	gods who dwelt on Mount Olympus	<dbo:MythologicalFigure>	7
+SemSearch_LS-16	hijackers in the September 11 attacks	<dbo:Murderer>	4
+SemSearch_LS-16	hijackers in the September 11 attacks	<dbo:Criminal>	2
+SemSearch_LS-16	hijackers in the September 11 attacks	<NONETYPE>	1
+SemSearch_LS-17	houses of the Russian parliament	<dbo:Building>	6
+SemSearch_LS-17	houses of the Russian parliament	<dbo:Legislature>	1
+SemSearch_LS-18	john lennon, parents	<dbo:Person>	6
+SemSearch_LS-18	john lennon, parents	<NONETYPE>	1
+SemSearch_LS-19	kenya's captain in cricket	<dbo:Cricketer>	7
+SemSearch_LS-2	Arab states of the Persian Gulf	<dbo:Country>	7
+SemSearch_LS-20	kublai khan siblings	<dbo:Royalty>	7
+SemSearch_LS-21	lilly allen parents	<dbo:Person>	6
+SemSearch_LS-21	lilly allen parents	<dbo:Artist>	1
+SemSearch_LS-22	major leagues in the united states	<dbo:AmericanFootballLeague>	4
+SemSearch_LS-22	major leagues in the united states	<dbo:SportsLeague>	3
+SemSearch_LS-24	matt berry tv series	<dbo:TelevisionShow>	6
+SemSearch_LS-24	matt berry tv series	<dbo:TelevisionEpisode>	1
+SemSearch_LS-25	members of u2?	<dbo:MusicalArtist>	6
+SemSearch_LS-25	members of u2?	<dbo:Band>	1
+SemSearch_LS-26	movies starring erykah badu	<dbo:Film>	5
+SemSearch_LS-26	movies starring erykah badu	<dbo:Artist>	2
+SemSearch_LS-29	nations where Portuguese is an official language	<dbo:Country>	6
+SemSearch_LS-29	nations where Portuguese is an official language	<dbo:Language>	1
+SemSearch_LS-3	astronauts who landed on the Moon	<dbo:Astronaut>	7
+SemSearch_LS-30	orders (or 'choirs') of angels	<dbo:MusicalWork>	5
+SemSearch_LS-30	orders (or 'choirs') of angels	<dbo:Work>	1
+SemSearch_LS-30	orders (or 'choirs') of angels	<NONETYPE>	1
+SemSearch_LS-31	permanent members of the UN Security Council	<dbo:Person>	4
+SemSearch_LS-31	permanent members of the UN Security Council	<dbo:OfficeHolder>	2
+SemSearch_LS-31	permanent members of the UN Security Council	<NONETYPE>	1
+SemSearch_LS-32	presidents depicted on mount rushmore who died of shooting	<dbo:Person>	5
+SemSearch_LS-32	presidents depicted on mount rushmore who died of shooting	<NONETYPE>	2
+SemSearch_LS-33	provinces and territories of Canada	<dbo:AdministrativeRegion>	4
+SemSearch_LS-33	provinces and territories of Canada	<dbo:Region>	2
+SemSearch_LS-33	provinces and territories of Canada	<dbo:PopulatedPlace>	1
+SemSearch_LS-34	ratt albums	<dbo:Album>	7
+SemSearch_LS-35	republics of the former Yugoslavia	<dbo:Country>	6
+SemSearch_LS-35	republics of the former Yugoslavia	<NONETYPE>	1
+SemSearch_LS-36	revolutionaries of 1959 in Cuba	<dbo:MilitaryPerson>	3
+SemSearch_LS-36	revolutionaries of 1959 in Cuba	<dbo:SocietalEvent>	1
+SemSearch_LS-36	revolutionaries of 1959 in Cuba	<dbo:Politician>	1
+SemSearch_LS-36	revolutionaries of 1959 in Cuba	<dbo:Person>	1
+SemSearch_LS-36	revolutionaries of 1959 in Cuba	<NONETYPE>	1
+SemSearch_LS-37	standard axioms of set theory	<NONETYPE>	7
+SemSearch_LS-38	states that border oklahoma	<dbo:AdministrativeRegion>	5
+SemSearch_LS-38	states that border oklahoma	<dbo:City>	2
+SemSearch_LS-39	ten ancient Greek city-kingdoms of Cyprus	<dbo:Settlement>	3
+SemSearch_LS-39	ten ancient Greek city-kingdoms of Cyprus	<NONETYPE>	2
+SemSearch_LS-39	ten ancient Greek city-kingdoms of Cyprus	<dbo:WorldHeritageSite>	1
+SemSearch_LS-39	ten ancient Greek city-kingdoms of Cyprus	<dbo:PopulatedPlace>	1
+SemSearch_LS-4	Axis powers of World War II	<dbo:MilitaryConflict>	3
+SemSearch_LS-4	Axis powers of World War II	<dbo:Country>	3
+SemSearch_LS-4	Axis powers of World War II	<NONETYPE>	1
+SemSearch_LS-40	the first 13 american states	<dbo:AdministrativeRegion>	4
+SemSearch_LS-40	the first 13 american states	<dbo:City>	3
+SemSearch_LS-41	the four of the companions of the prophet	<dbo:Religious>	4
+SemSearch_LS-41	the four of the companions of the prophet	<dbo:MythologicalFigure>	3
+SemSearch_LS-42	twelve tribes or sons of Israel	<dbo:EthnicGroup>	4
+SemSearch_LS-42	twelve tribes or sons of Israel	<dbo:MythologicalFigure>	2
+SemSearch_LS-42	twelve tribes or sons of Israel	<NONETYPE>	1
+SemSearch_LS-43	what books did paul of tarsus write?	<dbo:Book>	7
+SemSearch_LS-44	what languages do they speak in afghanistan	<dbo:Language>	7
+SemSearch_LS-46	where the British monarch is also head of state	<dbo:Country>	5
+SemSearch_LS-46	where the British monarch is also head of state	<dbo:PopulatedPlace>	1
+SemSearch_LS-46	where the British monarch is also head of state	<dbo:Place>	1
+SemSearch_LS-49	who invented the python programming language	<dbo:Person>	4
+SemSearch_LS-49	who invented the python programming language	<dbo:Scientist>	3
+SemSearch_LS-5	books of the Jewish canon	<dbo:Book>	7
+SemSearch_LS-50	wonders of the ancient world	<dbo:Monument>	4
+SemSearch_LS-50	wonders of the ancient world	<dbo:WorldHeritageSite>	2
+SemSearch_LS-50	wonders of the ancient world	<NONETYPE>	1
+SemSearch_LS-6	boroughs of New York City	<dbo:City>	4
+SemSearch_LS-6	boroughs of New York City	<dbo:AdministrativeRegion>	2
+SemSearch_LS-6	boroughs of New York City	<dbo:ClericalAdministrativeRegion>	1
+SemSearch_LS-7	Branches of the US military	<dbo:MilitaryStructure>	7
+SemSearch_LS-8	continents in the world	<dbo:Continent>	7
+SemSearch_LS-9	degrees of Eastern Orthodox monasticism	<dbo:Cleric>	7
+TREC_Entity-1	Carriers that Blackberry makes phones for.	<dbo:Company>	3
+TREC_Entity-1	Carriers that Blackberry makes phones for.	<dbo:Device>	2
+TREC_Entity-1	Carriers that Blackberry makes phones for.	<dbo:Agent>	1
+TREC_Entity-1	Carriers that Blackberry makes phones for.	<NONETYPE>	1
+TREC_Entity-10	Campuses of Indiana University.	<dbo:University>	4
+TREC_Entity-10	Campuses of Indiana University.	<dbo:Building>	3
+TREC_Entity-11	Donors to the Home Depot Foundation.	<dbo:Person>	4
+TREC_Entity-11	Donors to the Home Depot Foundation.	<dbo:BusinessPerson>	3
+TREC_Entity-12	Airlines that Air Canada has code share flights with.	<dbo:Airline>	5
+TREC_Entity-12	Airlines that Air Canada has code share flights with.	<dbo:Airport>	2
+TREC_Entity-14	Authors awarded an Anthony Award at Bouchercon in 2007.	<dbo:Writer>	6
+TREC_Entity-14	Authors awarded an Anthony Award at Bouchercon in 2007.	<NONETYPE>	1
+TREC_Entity-15	Universities that are members of the SEC conference for football.	<dbo:University>	7
+TREC_Entity-16	Sponsors of the Mancuso quilt festivals.	<dbo:Company>	6
+TREC_Entity-16	Sponsors of the Mancuso quilt festivals.	<dbo:Agent>	1
+TREC_Entity-17	Chefs with a show on the Food Network.	<dbo:Chef>	7
+TREC_Entity-18	Members of the band Jefferson Airplane.	<dbo:MusicalArtist>	7
+TREC_Entity-19	Companies that John Hennessey serves on the board of.	<dbo:Company>	7
+TREC_Entity-2	Winners of the ACM Athena award.	<dbo:Scientist>	4
+TREC_Entity-2	Winners of the ACM Athena award.	<dbo:Writer>	2
+TREC_Entity-2	Winners of the ACM Athena award.	<dbo:Person>	1
+TREC_Entity-20	Scotch whisky distilleries on the island of Islay.	<dbo:Beverage>	3
+TREC_Entity-20	Scotch whisky distilleries on the island of Islay.	<dbo:Place>	2
+TREC_Entity-20	Scotch whisky distilleries on the island of Islay.	<dbo:Company>	1
+TREC_Entity-20	Scotch whisky distilleries on the island of Islay.	<NONETYPE>	1
+TREC_Entity-4	Professional sports teams in Philadelphia.	<dbo:SportsTeam>	7
+TREC_Entity-5	Products of Medimmune, Inc.	<dbo:Drug>	5
+TREC_Entity-5	Products of Medimmune, Inc.	<NONETYPE>	2
+TREC_Entity-6	Organizations that award Nobel prizes.	<dbo:Organisation>	5
+TREC_Entity-6	Organizations that award Nobel prizes.	<dbo:Award>	2
+TREC_Entity-7	Airlines that currently use Boeing 747 planes.	<dbo:Airline>	7
+TREC_Entity-9	Members of The Beaux Arts Trio.	<dbo:Instrumentalist>	3
+TREC_Entity-9	Members of The Beaux Arts Trio.	<dbo:MusicalArtist>	2
+TREC_Entity-9	Members of The Beaux Arts Trio.	<dbo:ClassicalMusicArtist>	1
+TREC_Entity-9	Members of The Beaux Arts Trio.	<NONETYPE>	1
