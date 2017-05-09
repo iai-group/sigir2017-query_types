@@ -14,7 +14,7 @@ The repository is structured as follows:
 - `output/`:  all the final CSV run files, containing target types ranked by baseline methods and our proposed approach.
 
 
-## Machine learning data
+## Precomputed features for learning to rank target types
 
 Each instance of this CSV dataset is structured as follows:
 
@@ -25,13 +25,14 @@ Each instance of this CSV dataset is structured as follows:
 
 ## Results
 
-Results presented in the paper can be obtained by running the TREC evaluation script as usual, indicating the metrics of interest.
+Results presented in the paper can be obtained by running the TREC evaluation script, indicating the metrics of interest.
 E.g., placed on `sigir2017-query_types` directory, the following
 ```
-$ ./lib/trec_eval.9.0/trec_eval -c -m ndcg_cut.1,5 data/qrels/qrels-tti-CF-filtered_by_NIL+merged.csv output/ltr/scores-tti-ltr-rf-n_1000-m_3.csv
+$ /path/to/trec_eval -c -m ndcg_cut.1,5 data/qrels/qrels-tti-CF-filtered_by_NIL+merged.csv output/ltr/scores-tti-ltr-rf-n_1000-m_3.csv
 ```
 evaluates our proposed Learning-to-rank method with the NDCG@1 and NDCG@5 metrics.
 
 
 ## Contact
+
 Should you have any questions, please contact Darío Garigliotti at dario.garigliotti[AT]uis.no (with [AT] replaced by @).
