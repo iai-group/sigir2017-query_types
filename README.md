@@ -8,25 +8,25 @@ These resources allow to reproduce the results presented in the Target Type Iden
 
 The repository is structured as follows:
 
-- `data/test_collection/`: CSV dataset with our test collection, built from crowdsourcing annotations; 
-- `data/qrels/`: CSV file used for evaluating the rankings. It was obtained by post-processing the test collection (details in the paper); 
-- `data/ml/`: CSV machine learning dataset with all the pre-computed features; 
+- `data/test_collection/`: TSV-formatted dataset with our test collection, built from crowdsourcing annotations;
+- `data/qrels/`: TSV file used for evaluating the rankings. It was obtained by post-processing the test collection (details in the paper);
+- `data/ml/`: TSV-formatted machine learning dataset with all the pre-computed features;
 - `lib/trec_eval/`: TREC evaluation file (see its Readme);
-- `output/`:  all the final CSV run files, containing target types ranked by baseline methods and our proposed approach.
+- `output/`:  all the final TSV run files, containing target types ranked by baseline methods and our proposed approach.
 
 
 ## Test collection
 
-This CSV dataset contains the test collection built through a crowdsourcing annotation experiment (details in the paper).
+This TSV dataset contains the test collection built through a crowdsourcing annotation experiment (details in the paper).
 
 A special `<dbo:NONETYPE>` label represents a NIL-type annotation.
 
-The columns of this CSV file are self-descriptive.
+The columns of this TSV file are self-descriptive.
 
 
 ## Precomputed features for learning to rank target types
 
-Each instance of this CSV dataset is structured as follows:
+Each instance of this TSV-formatted dataset is structured as follows:
 
 - The first and second columns correspond to the query and type;
 - The third column is the target to predict;
@@ -38,7 +38,7 @@ Each instance of this CSV dataset is structured as follows:
 Results presented in the paper can be obtained by running the TREC evaluation script, indicating the metrics of interest.
 E.g., placed on `sigir2017-query_types` directory, the following
 ```
-$ /path/to/trec_eval -c -m ndcg_cut.1,5 data/qrels/qrels-tti-CF-filtered_by_NIL+merged.csv output/ltr/scores-tti-ltr-rf-n_1000-m_3.csv
+$ /path/to/trec_eval -c -m ndcg_cut.1,5 data/qrels/qrels-tti-CF-filtered_by_NIL+merged.tsv output/ltr/scores-tti-ltr-rf-n_1000-m_3.tsv
 ```
 evaluates our proposed Learning-to-rank method with the NDCG@1 and NDCG@5 metrics.
 
