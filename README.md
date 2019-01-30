@@ -2,9 +2,16 @@
 
 This repository provides resources developed within the following paper:
 
-> D. Garigliotti, F. Hasibi and K. Balog. Target Type Identification for Entity-Bearing Queries, In SIGIR'17, August 2017.
+> D. Garigliotti, F. Hasibi and K. Balog. Target Type Identification for Entity-Bearing Queries, In: Proceedings of the 40th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR '17). ACM. Tokyo, Japan. August 2017. [DOI: 10.1145/3077136.3080659](https://doi.org/10.1145/3077136.3080659)
 
-These resources allow to reproduce the results presented in the Target Type Identification paper.
+**You can get the author version of the article [here](https://arxiv.org/abs/1705.06056).**
+
+### Abstract
+
+> *Identifying the target types of entity-bearing queries can help improve retrieval performance as well as the overall search experience. In this work, we address the problem of automatically detecting the target types of a query with respect to a type taxonomy. We propose a supervised learning approach with a rich variety of features. Using a purpose-built test collection, we show that our approach outperforms existing methods by a remarkable margin.* 
+
+
+### Structure
 
 The repository is structured as follows:
 
@@ -55,10 +62,8 @@ If you use the resources presented in this repository, please cite:
  series =     {SIGIR '17},
  year =       {2017},
  pages =      {845--848},
- abstract =   {Identifying the target types of entity-bearing queries can help improve retrieval performance as well as the overall search experience. In this work, we address the problem of automatically detecting the target types of a query with respect to a type taxonomy. We propose a supervised learning approach with a rich variety of features. Using a purpose-built test collection, we show that our approach outperforms existing methods by a remarkable margin.},
  doi =        {10.1145/3077136.3080659},
  publisher =  {ACM},
- keywords =   {entity search, query types, query understanding, semantic search},
 }
 ```
 
