@@ -2,7 +2,7 @@
 
 This repository provides resources developed within the following paper:
 
-> D. Garigliotti, F. Hasibi and K. Balog. Target Type Identification for Entity-Bearing Queries, In: Proceedings of the 40th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR '17). ACM. Tokyo, Japan. August 2017. [DOI: 10.1145/3077136.3080659](https://doi.org/10.1145/3077136.3080659)
+> D. Garigliotti, F. Hasibi and K. Balog. **Target Type Identification for Entity-Bearing Queries.** In: Proceedings of the 40th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR '17). ACM. Tokyo, Japan. August 2017. [DOI: 10.1145/3077136.3080659](https://doi.org/10.1145/3077136.3080659)
 
 **You can get the author version of the article [here](https://arxiv.org/abs/1705.06056).**
 
